@@ -1,0 +1,154 @@
+img {
+  vertical-align:middle;
+  border-style:none;
+  height:100%;
+  width:100%;
+  margin-top:1em;
+  margin-bottom:0px;
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+}
+
+.img-pag-1 {
+  height:80%;
+  width:80%;
+}
+
+body {
+  background-repeat:no-repeat;
+  background-image:url("../../assets/img/fundo-sangue.jpg");
+  background-size:cover;
+}
+
+.jumbotron {
+  padding:2rem 1rem;
+  margin-bottom:2rem;
+  background-color:#e9ecef;
+  border-radius:.3rem;
+  background-color:rgba(201,228,255,0.0);
+}
+
+body {
+  margin:0;
+  font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+  font-size:1rem;
+  font-weight:400;
+  line-height:1.5;
+  color:#212529;
+  text-align:left;
+}
+
+html {
+  font-family:sans-serif;
+  line-height:1.15;
+  -webkit-text-size-adjust:100%;
+  -ms-text-size-adjust:100%;
+  -ms-overflow-style:scrollbar;
+  -webkit-tap-highlight-color:transparent;
+}
+
+.container {
+  width:100%;
+  padding-right:15px;
+  padding-left:15px;
+  margin-right:auto;
+  margin-left:auto;
+  align-content:center;
+  align-self:center;
+  align-items:center;
+}
+
+.p-image {
+  position:absolute;
+  width:30%;
+  margin-top:2em;
+  margin-left:1em;
+}
+
+.img-internacao-rodrigo {
+  /*position:relative;*/
+}
+
+.container.img-plus-p {
+  position:relative;
+}
+
+.img-text {
+  width:58%;
+  margin-top:0em;
+  margin-right:2em;
+  border-style:double;
+  border-width:medium;
+}
+
+.float-right.button-div {
+  margin-top:1em;
+}
+
+.text-center.p-image-2 {
+  position:absolute;
+  margin-top:2%;
+  width:30%;
+  margin-left:60%;
+  /*background-color:rgba(201,221,255,0.5);*/
+}
+
+.img-pag-2 {
+  width:52%;
+  margin-top:0px;
+  margin-left:1em;
+  border-style:double;
+  border-width:medium;
+}
+
+.img-pag-3 {
+  width:28%;
+  margin-top:0px;
+  margin-left:2em;
+  border-style:double;
+  border-width:medium;
+}
+
+.text-center.p-image-3 {
+  position:absolute;
+  width:30%;
+  margin-left:30%;
+  margin-top:10%;
+}
+
+.img-opt-1 {
+  height:60%;
+  width:100%;
+}
+
+.img-concl-1 {
+  width:40%;
+  border-style:double;
+  border-width:medium;
+}
+
+.img-opt-2 {
+  height:40%;
+  height:50%;
+}
+
+.container.container-home {
+  width:40%;
+  float:right;
+}
+
+.col.img-home {
+  width:10em;
+}
+
+.rounded-circle.float-right.img-home {
+  width:10em;
+  height:10em;
+}
+
+.container.home-left {
+  width:40%;
+  float:left;
+}
+
